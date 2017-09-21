@@ -1,6 +1,8 @@
 # SubscriptionDatabase
 
-The main goal of this project is to create a redundant normalized database. Implemented key, entity & referential integrity constraints to achieve robustness. Given the requirements, created EER diagram, mapped EER diagram to relational schema and created tables. Created database was redundant, with minimum null values and in 3NF for faster data retrieval
+The main goal of this project is to create a redundant normalized database. Implemented key, entity & referential integrity constraints to achieve robustness. Given the requirements, created EER diagram, mapped EER diagram to relational schema and created tables. Created database was redundant, with minimum null values and in 3NF for faster data retrieval.
+There is a pdf file which contains the EER diagram, relation schema and database tables. 
+Here, you can see them [subscription database](Magazine&Newspaper_Database_Creation.pdf)
 Implemented a web app to allow user to maintain subscription of magazines and newspapers. 
 Project is done in JAVA using JSP, Servlet and Tomcat and using MySQL as database. Database tables are in normalized form.
 There are 3 jsp files, 1 java class and 10 java servlets.
